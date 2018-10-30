@@ -23,7 +23,7 @@ dnf install texlive-scheme-full
 ```
 
 ### Actualización y generación del documento
-Una vez instalado el entorno, puede usar su editor favorito para trabajar con el documento (PaperAPP.tex). Utilice los siguientes comandos para generar el archivo en formato tipo pdf (es posible que sea necesario repetir repetirlos varias veces para que las referencias bibliográficas enlacen adecuadamente):
+Una vez instalado el entorno, puede usar su editor favorito para trabajar con el documento (PaperAPP.tex). Utilice los siguientes comandos para generar el archivo en formato tipo pdf (es posible que sea necesario repetirlos varias veces para que las referencias bibliográficas enlacen adecuadamente):
 
 Compilación inicial:
 ```
