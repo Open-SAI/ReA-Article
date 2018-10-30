@@ -1,4 +1,4 @@
-# Artículo Ponencia XI Congreso de Software Libre UNIMINUTO (Villavicencio): "Un Acercamiento con IoT al procesamiento y gestión de datos que ofrece BBIG DATA"
+# Artículo Ponencia XI Congreso de Software Libre UNIMINUTO (Villavicencio): "Un Acercamiento con IoT al procesamiento y gestión de datos que ofrece BIG DATA"
 
 ### Contenido
 En esta sección se encuentra el articulo de la ponencia, para compilar la ponencia realice lo siguiente: 
