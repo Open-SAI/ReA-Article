@@ -11,7 +11,7 @@ Si bien la temática central del congreso fué Big Data, la aproximación experimen
 
 ### Instalación entorno de trabajo
 
-Es necesario instalar todo el entorno de Latex, requiere varias gigas de espacio en disco.
+Es necesario instalar todo el entorno de Latex, requiere varias gigas de espacio en disco, la instalación requiere permisos administrativos (como usuario root o via comando _sudo_).
 
 Para sistemas basados en Debian:
 ```
