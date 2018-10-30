@@ -6,7 +6,7 @@ En esta sección se encuentra el articulo de la ponencia, para compilar la ponenc
 ## Contexto
 Este documento fué presentado como ponencia en el evento mencionado, compartiendo parte de la experiencia recopilada en el proyecto ReA. 
 
-Si bien la temática central del congreso fué Big Data, la aproximación experimentada desde la creación de los dos prototipos de hardware involucrados: Autenticación por NFC (de orden pedagógico) y Captura de lecturas de posicionamiento vía GPS (para el mapeo inicial de la bodega), junto con las proyecciones de generación de datos por dispositivos como las gafas de realidad aumentada, como las EPSON BT300 del proyecto, hicieron atractiva la iniciativa para los organizadores del evento. Las imagenes de participación en el mismo pueden verse en la página principal de ReA (http://rea.opensai.org).
+Si bien la temática central del congreso fué Big Data, la aproximación experimentada desde la creación de los dos prototipos de hardware involucrados: Autenticación por NFC (de orden pedagógico) y Captura de lecturas de posicionamiento vía GPS (para el mapeo inicial de la bodega), junto con las proyecciones de generación de datos por dispositivos como las gafas de realidad aumentada, como las EPSON BT300 del proyecto, hicieron atractiva la iniciativa para los organizadores del evento. Las imagenes de participación en el mismo pueden verse en la [página principal de ReA](http://rea.opensai.org){:target="_blank"}.
 
 ## Generación del documento
 
