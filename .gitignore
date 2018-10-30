@@ -1,3 +1,6 @@
+
+# Entorno latex
+# Asumiendo que el editor no esta configurado para limpiar archivos temporales
 *.swp
 *.toc
 *.out
@@ -6,4 +9,6 @@
 *.blg
 *.bbl
 *.aux
+
+# Se conserva filtro 
 !.gitignore
