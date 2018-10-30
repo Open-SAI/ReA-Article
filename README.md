@@ -14,12 +14,11 @@ Si bien la temática central del congreso fué Big Data, la aproximación experimen
 Es necesario instalar todo el entorno de Latex, requiere varias gigas de espacio en disco.
 
 Para sistemas basados en Debian:
-```latex
+```bash
 apt install texlive-full
 ```
-
 Para un sistema Fedora:
-```latex
+```bash
 dnf install texlive-scheme-full
 ```
 
@@ -29,16 +28,16 @@ Una vez instalado el entorno, puede usar su editor favorito para trabajar con el
 Utilice los siguientes comandos para generar el archivo en formato tipo pdf:
 
 Compilación inicial:
-```latex
+```bash
 pdflatex  PaperAPP.tex
 ```
 
 Integración de la bibliografia: 
-```latex
+```bash
 bibtex PaperAPP.aux
 ```
 
 Versión final: 
-```latex
+```bash
 pdflatex  PaperAPP.tex
 ```
