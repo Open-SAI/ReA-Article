@@ -30,7 +30,7 @@ Una vez instalado el entorno, puede usar su editor favorito para trabajar con el
 Utilice los siguientes comandos para generar el archivo en formato tipo pdf:
 
 Compilación inicial:
-``latex
+```latex
 pdflatex  PaperAPP.tex
 ```
 
