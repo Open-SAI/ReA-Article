@@ -1,0 +1,9 @@
+*.swp
+*.toc
+*.out
+*.log
+*.lof
+*.blg
+*.bbl
+*.aux
+!.gitignore
