@@ -1,4 +1,4 @@
-# Artículo Ponencia XI Congreso de Software Libre UNIMINUTO (Villavicencio): "Un Acercamiento con IoT al procesamiento y gestión de datos que ofrece BIG DATA"
+# Artículo Ponencia XI Congreso de Software Libre UNIMINUTO (Villavicencio): _Un Acercamiento con IoT al procesamiento y gestión de datos que ofrece BIG DATA_
 
 ### Contenido
 En esta sección se encuentra el articulo de la ponencia, para compilar la ponencia realice lo siguiente: 
@@ -14,30 +14,26 @@ Si bien la temática central del congreso fué Big Data, la aproximación experimen
 Es necesario instalar todo el entorno de Latex, requiere varias gigas de espacio en disco.
 
 Para sistemas basados en Debian:
-```bash
+```
 apt install texlive-full
 ```
 Para un sistema Fedora:
-```bash
+```
 dnf install texlive-scheme-full
 ```
 
 ### Actualización y generación del documento
-Una vez instalado el entorno, puede usar su editor favorito para trabajar con el documento (PaperAPP.tex). 
-
-Utilice los siguientes comandos para generar el archivo en formato tipo pdf:
+Una vez instalado el entorno, puede usar su editor favorito para trabajar con el documento (PaperAPP.tex). Utilice los siguientes comandos para generar el archivo en formato tipo pdf:
 
 Compilación inicial:
-```bash
+```
 pdflatex  PaperAPP.tex
 ```
-
 Integración de la bibliografia: 
-```bash
+```
 bibtex PaperAPP.aux
 ```
-
 Versión final: 
-```bash
+```
 pdflatex  PaperAPP.tex
 ```
