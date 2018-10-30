@@ -1,5 +1,8 @@
 # Artículo Ponencia XI Congreso de Software Libre UNIMINUTO (Villavicencio): "Un Acercamiento con IoT al procesamiento y gestión de datos que ofrece BBIG DATA"
 
+### Contenido
+En esta sección se encuentra el articulo de la ponencia, para compilar la ponencia realice lo siguiente: 
+
 ## Contexto
 Este documento fué presentado como ponencia en el evento mencionado, compartiendo parte de la experiencia recopilada en el proyecto ReA. 
 
@@ -7,7 +10,7 @@ Si bien la temática central del congreso fué Big Data, la aproximación experimen
 
 ## Generación del documento
 
-### Instalación
+### Instalación entorno de trabajo
 
 Es necesario instalar todo el entorno de Latex, requiere varias gigas de espacio en disco.
 
@@ -21,21 +24,22 @@ Para un sistema Fedora:
 dnf install texlive-scheme-full
 ```
 
-### Contenido
+### Actualización y generación del documento
+Una vez instalado el entorno, puede usar su editor favorito para trabajar con el documento (PaperAPP.tex). 
 
-En esta sección se encuentran dos carpetas, una con el articulo de la ponencia que se realizo en Colombia Villavicencio en el XI Congreso de Software Libre, donde se ha expuesto lo relacionado con realidad aumentada, IoT y bigdata para la visualización del trabajo realizado con OpenSAI y el SENA para la elaboración de un prototipo de realidad aumentada para el apoyo logístico a empresas de almacenaje con smart glass usando software y hardware libre.
+Utilice los siguientes comandos para generar el archivo en formato tipo pdf:
 
-En esta sección se encuentra el articulo de la ponencia, para compilar la ponencia realice lo siguiente: 
-```latex
+Compilación inicial:
+``latex
 pdflatex  PaperAPP.tex
 ```
 
-dar enter, luego escribir lo siguiente 
+Integración de la bibliografia: 
 ```latex
 bibtex PaperAPP.aux
 ```
 
-oprimir enter, luego compilar dos veces con 
+Versión final: 
 ```latex
 pdflatex  PaperAPP.tex
 ```
